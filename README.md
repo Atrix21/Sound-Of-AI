@@ -9,7 +9,7 @@ __Models:__ MobileNetV2, ResNet152V2 (with additional custom layers)
 __Classes:__ Murmur, Normal, Extrasystole, Artifact
 
 
-<img align="center" src="" width="600">
+<img align="center" src="https://github.com/Atrix21/Sound-Of-AI/blob/main/Datasets/A_data/soundofAIdata.png" width="600">
 
 
 ### __Mobile Application Features__
